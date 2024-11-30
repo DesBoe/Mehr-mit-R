@@ -1,9 +1,10 @@
 #### 00. benötigte Pakete herunterladen####
 
-pakete <- c("ggplot2", 
-            "dplyr", 
-            "tidyr",
-            "DBI")  # Liste der Pakete
+pakete <- c("xlsx", 
+            "readxl", 
+            "ggplot2",
+            "data.table",
+            "dplyr")
 
 for (paket in pakete) {
   if (!require(paket, character.only = TRUE)) {
