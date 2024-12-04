@@ -1,0 +1,777 @@
+﻿time;Versuch;Behnadlung;Wachstum
+0;R1;C. albicans SC 5314;0
+0,5;R1;C. albicans SC 5314;0,0015
+1;R1;C. albicans SC 5314;0,003
+1,5;R1;C. albicans SC 5314;0,0045
+2;R1;C. albicans SC 5314;0,006
+2,5;R1;C. albicans SC 5314;0,008
+3;R1;C. albicans SC 5314;0,009
+3,5;R1;C. albicans SC 5314;0,0105
+4;R1;C. albicans SC 5314;0,012
+4,5;R1;C. albicans SC 5314;0,0125
+5;R1;C. albicans SC 5314;0,014
+5,5;R1;C. albicans SC 5314;0,0145
+6;R1;C. albicans SC 5314;0,016
+6,5;R1;C. albicans SC 5314;0,017
+7;R1;C. albicans SC 5314;0,018
+7,5;R1;C. albicans SC 5314;0,019
+8;R1;C. albicans SC 5314;0,02
+8,5;R1;C. albicans SC 5314;0,0205
+9;R1;C. albicans SC 5314;0,021
+9,5;R1;C. albicans SC 5314;0,0225
+10;R1;C. albicans SC 5314;0,023
+10,5;R1;C. albicans SC 5314;0,024
+11;R1;C. albicans SC 5314;0,025
+11,5;R1;C. albicans SC 5314;0,0255
+12;R1;C. albicans SC 5314;0,026
+12,5;R1;C. albicans SC 5314;0,027
+13;R1;C. albicans SC 5314;0,027
+13,5;R1;C. albicans SC 5314;0,028
+14;R1;C. albicans SC 5314;0,029
+14,5;R1;C. albicans SC 5314;0,0295
+15;R1;C. albicans SC 5314;0,03
+15,5;R1;C. albicans SC 5314;0,03
+16;R1;C. albicans SC 5314;0,031
+16,5;R1;C. albicans SC 5314;0,0315
+17;R1;C. albicans SC 5314;0,032
+17,5;R1;C. albicans SC 5314;0,0325
+18;R1;C. albicans SC 5314;0,033
+18,5;R1;C. albicans SC 5314;0,0335
+19;R1;C. albicans SC 5314;0,034
+19,5;R1;C. albicans SC 5314;0,0345
+20;R1;C. albicans SC 5314;0,035
+20,5;R1;C. albicans SC 5314;0,0355
+21;R1;C. albicans SC 5314;0,036
+21,5;R1;C. albicans SC 5314;0,0365
+22;R1;C. albicans SC 5314;0,037
+22,5;R1;C. albicans SC 5314;0,038
+23;R1;C. albicans SC 5314;0,038
+23,5;R1;C. albicans SC 5314;0,039
+24;R1;C. albicans SC 5314;0,04
+24,5;R1;C. albicans SC 5314;0,0395
+25;R1;C. albicans SC 5314;0,04
+25,5;R1;C. albicans SC 5314;0,041
+26;R1;C. albicans SC 5314;0,041
+26,5;R1;C. albicans SC 5314;0,0425
+27;R1;C. albicans SC 5314;0,043
+27,5;R1;C. albicans SC 5314;0,0435
+28;R1;C. albicans SC 5314;0,044
+28,5;R1;C. albicans SC 5314;0,045
+29;R1;C. albicans SC 5314;0,045
+29,5;R1;C. albicans SC 5314;0,046
+30;R1;C. albicans SC 5314;0,046
+30,5;R1;C. albicans SC 5314;0,0475
+31;R1;C. albicans SC 5314;0,048
+31,5;R1;C. albicans SC 5314;0,0485
+32;R1;C. albicans SC 5314;0,049
+32,5;R1;C. albicans SC 5314;0,0495
+33;R1;C. albicans SC 5314;0,05
+33,5;R1;C. albicans SC 5314;0,051
+34;R1;C. albicans SC 5314;0,051
+34,5;R1;C. albicans SC 5314;0,0515
+35;R1;C. albicans SC 5314;0,052
+35,5;R1;C. albicans SC 5314;0,0525
+36;R1;C. albicans SC 5314;0,053
+36,5;R1;C. albicans SC 5314;0,054
+37;R1;C. albicans SC 5314;0,054
+37,5;R1;C. albicans SC 5314;0,055
+38;R1;C. albicans SC 5314;0,055
+38,5;R1;C. albicans SC 5314;0,056
+39;R1;C. albicans SC 5314;0,056
+39,5;R1;C. albicans SC 5314;0,0565
+40;R1;C. albicans SC 5314;0,057
+40,5;R1;C. albicans SC 5314;0,0575
+41;R1;C. albicans SC 5314;0,058
+41,5;R1;C. albicans SC 5314;0,0585
+42;R1;C. albicans SC 5314;0,059
+42,5;R1;C. albicans SC 5314;0,059
+43;R1;C. albicans SC 5314;0,06
+43,5;R1;C. albicans SC 5314;0,06
+44;R1;C. albicans SC 5314;0,06
+44,5;R1;C. albicans SC 5314;0,0615
+45;R1;C. albicans SC 5314;0,061
+45,5;R1;C. albicans SC 5314;0,0615
+46;R1;C. albicans SC 5314;0,062
+46,5;R1;C. albicans SC 5314;0,0625
+47;R1;C. albicans SC 5314;0,063
+47,5;R1;C. albicans SC 5314;0,063
+48;R1;C. albicans SC 5314;0,063
+0;R2;C. albicans SC 5314;0
+0,5;R2;C. albicans SC 5314;0,002
+1;R2;C. albicans SC 5314;0,003
+1,5;R2;C. albicans SC 5314;0,0035
+2;R2;C. albicans SC 5314;0,004
+2,5;R2;C. albicans SC 5314;0,0055
+3;R2;C. albicans SC 5314;0,006
+3,5;R2;C. albicans SC 5314;0,0075
+4;R2;C. albicans SC 5314;0,009
+4,5;R2;C. albicans SC 5314;0,0095
+5;R2;C. albicans SC 5314;0,012
+5,5;R2;C. albicans SC 5314;0,0135
+6;R2;C. albicans SC 5314;0,016
+6,5;R2;C. albicans SC 5314;0,019
+7;R2;C. albicans SC 5314;0,023
+7,5;R2;C. albicans SC 5314;0,0275
+8;R2;C. albicans SC 5314;0,033
+8,5;R2;C. albicans SC 5314;0,0395
+9;R2;C. albicans SC 5314;0,047
+9,5;R2;C. albicans SC 5314;0,056
+10;R2;C. albicans SC 5314;0,067
+10,5;R2;C. albicans SC 5314;0,078
+11;R2;C. albicans SC 5314;0,092
+11,5;R2;C. albicans SC 5314;0,1075
+12;R2;C. albicans SC 5314;0,124
+12,5;R2;C. albicans SC 5314;0,144
+13;R2;C. albicans SC 5314;0,163
+13,5;R2;C. albicans SC 5314;0,184
+14;R2;C. albicans SC 5314;0,205
+14,5;R2;C. albicans SC 5314;0,227
+15;R2;C. albicans SC 5314;0,25
+15,5;R2;C. albicans SC 5314;0,2725
+16;R2;C. albicans SC 5314;0,296
+16,5;R2;C. albicans SC 5314;0,317
+17;R2;C. albicans SC 5314;0,344
+17,5;R2;C. albicans SC 5314;0,3685
+18;R2;C. albicans SC 5314;0,395
+18,5;R2;C. albicans SC 5314;0,418
+19;R2;C. albicans SC 5314;0,444
+19,5;R2;C. albicans SC 5314;0,464
+20;R2;C. albicans SC 5314;0,482
+20,5;R2;C. albicans SC 5314;0,495
+21;R2;C. albicans SC 5314;0,502
+21,5;R2;C. albicans SC 5314;0,4965
+22;R2;C. albicans SC 5314;0,49
+22,5;R2;C. albicans SC 5314;0,483
+23;R2;C. albicans SC 5314;0,476
+23,5;R2;C. albicans SC 5314;0,47
+24;R2;C. albicans SC 5314;0,465
+24,5;R2;C. albicans SC 5314;0,461
+25;R2;C. albicans SC 5314;0,459
+25,5;R2;C. albicans SC 5314;0,4555
+26;R2;C. albicans SC 5314;0,454
+26,5;R2;C. albicans SC 5314;0,4525
+27;R2;C. albicans SC 5314;0,451
+27,5;R2;C. albicans SC 5314;0,4495
+28;R2;C. albicans SC 5314;0,449
+28,5;R2;C. albicans SC 5314;0,449
+29;R2;C. albicans SC 5314;0,449
+29,5;R2;C. albicans SC 5314;0,4495
+30;R2;C. albicans SC 5314;0,449
+30,5;R2;C. albicans SC 5314;0,45
+31;R2;C. albicans SC 5314;0,449
+31,5;R2;C. albicans SC 5314;0,4525
+32;R2;C. albicans SC 5314;0,449
+32,5;R2;C. albicans SC 5314;0,464
+33;R2;C. albicans SC 5314;0,45
+33,5;R2;C. albicans SC 5314;0,4505
+34;R2;C. albicans SC 5314;0,457
+34,5;R2;C. albicans SC 5314;0,464
+35;R2;C. albicans SC 5314;0,459
+35,5;R2;C. albicans SC 5314;0,48
+36;R2;C. albicans SC 5314;0,494
+36,5;R2;C. albicans SC 5314;0,482
+37;R2;C. albicans SC 5314;0,495
+37,5;R2;C. albicans SC 5314;0,4755
+38;R2;C. albicans SC 5314;0,494
+38,5;R2;C. albicans SC 5314;0,492
+39;R2;C. albicans SC 5314;0,464
+39,5;R2;C. albicans SC 5314;0,48
+40;R2;C. albicans SC 5314;0,487
+40,5;R2;C. albicans SC 5314;0,473
+41;R2;C. albicans SC 5314;0,454
+41,5;R2;C. albicans SC 5314;0,4715
+42;R2;C. albicans SC 5314;0,467
+42,5;R2;C. albicans SC 5314;0,4625
+43;R2;C. albicans SC 5314;0,457
+43,5;R2;C. albicans SC 5314;0,458
+44;R2;C. albicans SC 5314;0,454
+44,5;R2;C. albicans SC 5314;0,4535
+45;R2;C. albicans SC 5314;0,452
+45,5;R2;C. albicans SC 5314;0,4505
+46;R2;C. albicans SC 5314;0,452
+46,5;R2;C. albicans SC 5314;0,453
+47;R2;C. albicans SC 5314;0,452
+47,5;R2;C. albicans SC 5314;0,454
+48;R2;C. albicans SC 5314;0,452
+0;R3;C. albicans SC 5314;0
+0,5;R3;C. albicans SC 5314;0,0025
+1;R3;C. albicans SC 5314;0,003
+1,5;R3;C. albicans SC 5314;0,004
+2;R3;C. albicans SC 5314;0,004
+2,5;R3;C. albicans SC 5314;0,0055
+3;R3;C. albicans SC 5314;0,006
+3,5;R3;C. albicans SC 5314;0,0075
+4;R3;C. albicans SC 5314;0,009
+4,5;R3;C. albicans SC 5314;0,0095
+5;R3;C. albicans SC 5314;0,011
+5,5;R3;C. albicans SC 5314;0,013
+6;R3;C. albicans SC 5314;0,015
+6,5;R3;C. albicans SC 5314;0,018
+7;R3;C. albicans SC 5314;0,021
+7,5;R3;C. albicans SC 5314;0,024
+8;R3;C. albicans SC 5314;0,028
+8,5;R3;C. albicans SC 5314;0,0315
+9;R3;C. albicans SC 5314;0,036
+9,5;R3;C. albicans SC 5314;0,042
+10;R3;C. albicans SC 5314;0,048
+10,5;R3;C. albicans SC 5314;0,056
+11;R3;C. albicans SC 5314;0,064
+11,5;R3;C. albicans SC 5314;0,0725
+12;R3;C. albicans SC 5314;0,084
+12,5;R3;C. albicans SC 5314;0,094
+13;R3;C. albicans SC 5314;0,106
+13,5;R3;C. albicans SC 5314;0,118
+14;R3;C. albicans SC 5314;0,133
+14,5;R3;C. albicans SC 5314;0,1465
+15;R3;C. albicans SC 5314;0,16
+15,5;R3;C. albicans SC 5314;0,175
+16;R3;C. albicans SC 5314;0,19
+16,5;R3;C. albicans SC 5314;0,21
+17;R3;C. albicans SC 5314;0,221
+17,5;R3;C. albicans SC 5314;0,2385
+18;R3;C. albicans SC 5314;0,254
+18,5;R3;C. albicans SC 5314;0,2715
+19;R3;C. albicans SC 5314;0,285
+19,5;R3;C. albicans SC 5314;0,302
+20;R3;C. albicans SC 5314;0,322
+20,5;R3;C. albicans SC 5314;0,338
+21;R3;C. albicans SC 5314;0,348
+21,5;R3;C. albicans SC 5314;0,3625
+22;R3;C. albicans SC 5314;0,385
+22,5;R3;C. albicans SC 5314;0,3965
+23;R3;C. albicans SC 5314;0,399
+23,5;R3;C. albicans SC 5314;0,411
+24;R3;C. albicans SC 5314;0,409
+24,5;R3;C. albicans SC 5314;0,3975
+25;R3;C. albicans SC 5314;0,385
+25,5;R3;C. albicans SC 5314;0,382
+26;R3;C. albicans SC 5314;0,373
+26,5;R3;C. albicans SC 5314;0,371
+27;R3;C. albicans SC 5314;0,366
+27,5;R3;C. albicans SC 5314;0,363
+28;R3;C. albicans SC 5314;0,361
+28,5;R3;C. albicans SC 5314;0,3595
+29;R3;C. albicans SC 5314;0,359
+29,5;R3;C. albicans SC 5314;0,357
+30;R3;C. albicans SC 5314;0,356
+30,5;R3;C. albicans SC 5314;0,3535
+31;R3;C. albicans SC 5314;0,352
+31,5;R3;C. albicans SC 5314;0,3565
+32;R3;C. albicans SC 5314;0,356
+32,5;R3;C. albicans SC 5314;0,355
+33;R3;C. albicans SC 5314;0,355
+33,5;R3;C. albicans SC 5314;0,3535
+34;R3;C. albicans SC 5314;0,355
+34,5;R3;C. albicans SC 5314;0,356
+35;R3;C. albicans SC 5314;0,355
+35,5;R3;C. albicans SC 5314;0,3555
+36;R3;C. albicans SC 5314;0,357
+36,5;R3;C. albicans SC 5314;0,3565
+37;R3;C. albicans SC 5314;0,357
+37,5;R3;C. albicans SC 5314;0,358
+38;R3;C. albicans SC 5314;0,358
+38,5;R3;C. albicans SC 5314;0,3585
+39;R3;C. albicans SC 5314;0,359
+39,5;R3;C. albicans SC 5314;0,3595
+40;R3;C. albicans SC 5314;0,361
+40,5;R3;C. albicans SC 5314;0,36
+41;R3;C. albicans SC 5314;0,36
+41,5;R3;C. albicans SC 5314;0,363
+42;R3;C. albicans SC 5314;0,362
+42,5;R3;C. albicans SC 5314;0,362
+43;R3;C. albicans SC 5314;0,362
+43,5;R3;C. albicans SC 5314;0,362
+44;R3;C. albicans SC 5314;0,362
+44,5;R3;C. albicans SC 5314;0,3605
+45;R3;C. albicans SC 5314;0,362
+45,5;R3;C. albicans SC 5314;0,362
+46;R3;C. albicans SC 5314;0,364
+46,5;R3;C. albicans SC 5314;0,3635
+47;R3;C. albicans SC 5314;0,363
+47,5;R3;C. albicans SC 5314;0,3635
+48;R3;C. albicans SC 5314;0,362
+0;R4;C. albicans SC 5314;0
+0,5;R4;C. albicans SC 5314;0,002
+1;R4;C. albicans SC 5314;0,003
+1,5;R4;C. albicans SC 5314;0,004
+2;R4;C. albicans SC 5314;0,004
+2,5;R4;C. albicans SC 5314;0,006
+3;R4;C. albicans SC 5314;0,007
+3,5;R4;C. albicans SC 5314;0,0085
+4;R4;C. albicans SC 5314;0,01
+4,5;R4;C. albicans SC 5314;0,011
+5;R4;C. albicans SC 5314;0,013
+5,5;R4;C. albicans SC 5314;0,0155
+6;R4;C. albicans SC 5314;0,018
+6,5;R4;C. albicans SC 5314;0,021
+7;R4;C. albicans SC 5314;0,024
+7,5;R4;C. albicans SC 5314;0,028
+8;R4;C. albicans SC 5314;0,032
+8,5;R4;C. albicans SC 5314;0,0375
+9;R4;C. albicans SC 5314;0,041
+9,5;R4;C. albicans SC 5314;0,049
+10;R4;C. albicans SC 5314;0,055
+10,5;R4;C. albicans SC 5314;0,0635
+11;R4;C. albicans SC 5314;0,072
+11,5;R4;C. albicans SC 5314;0,0805
+12;R4;C. albicans SC 5314;0,091
+12,5;R4;C. albicans SC 5314;0,102
+13;R4;C. albicans SC 5314;0,113
+13,5;R4;C. albicans SC 5314;0,1245
+14;R4;C. albicans SC 5314;0,139
+14,5;R4;C. albicans SC 5314;0,153
+15;R4;C. albicans SC 5314;0,167
+15,5;R4;C. albicans SC 5314;0,1805
+16;R4;C. albicans SC 5314;0,195
+16,5;R4;C. albicans SC 5314;0,211
+17;R4;C. albicans SC 5314;0,225
+17,5;R4;C. albicans SC 5314;0,2405
+18;R4;C. albicans SC 5314;0,255
+18,5;R4;C. albicans SC 5314;0,2705
+19;R4;C. albicans SC 5314;0,286
+19,5;R4;C. albicans SC 5314;0,3005
+20;R4;C. albicans SC 5314;0,317
+20,5;R4;C. albicans SC 5314;0,3325
+21;R4;C. albicans SC 5314;0,346
+21,5;R4;C. albicans SC 5314;0,3565
+22;R4;C. albicans SC 5314;0,377
+22,5;R4;C. albicans SC 5314;0,392
+23;R4;C. albicans SC 5314;0,404
+23,5;R4;C. albicans SC 5314;0,418
+24;R4;C. albicans SC 5314;0,428
+24,5;R4;C. albicans SC 5314;0,4325
+25;R4;C. albicans SC 5314;0,433
+25,5;R4;C. albicans SC 5314;0,4275
+26;R4;C. albicans SC 5314;0,418
+26,5;R4;C. albicans SC 5314;0,409
+27;R4;C. albicans SC 5314;0,399
+27,5;R4;C. albicans SC 5314;0,392
+28;R4;C. albicans SC 5314;0,387
+28,5;R4;C. albicans SC 5314;0,3845
+29;R4;C. albicans SC 5314;0,382
+29,5;R4;C. albicans SC 5314;0,3805
+30;R4;C. albicans SC 5314;0,379
+30,5;R4;C. albicans SC 5314;0,3745
+31;R4;C. albicans SC 5314;0,37
+31,5;R4;C. albicans SC 5314;0,377
+32;R4;C. albicans SC 5314;0,376
+32,5;R4;C. albicans SC 5314;0,375
+33;R4;C. albicans SC 5314;0,375
+33,5;R4;C. albicans SC 5314;0,3715
+34;R4;C. albicans SC 5314;0,374
+34,5;R4;C. albicans SC 5314;0,374
+35;R4;C. albicans SC 5314;0,374
+35,5;R4;C. albicans SC 5314;0,375
+36;R4;C. albicans SC 5314;0,375
+36,5;R4;C. albicans SC 5314;0,375
+37;R4;C. albicans SC 5314;0,375
+37,5;R4;C. albicans SC 5314;0,376
+38;R4;C. albicans SC 5314;0,376
+38,5;R4;C. albicans SC 5314;0,376
+39;R4;C. albicans SC 5314;0,376
+39,5;R4;C. albicans SC 5314;0,377
+40;R4;C. albicans SC 5314;0,377
+40,5;R4;C. albicans SC 5314;0,3775
+41;R4;C. albicans SC 5314;0,378
+41,5;R4;C. albicans SC 5314;0,3795
+42;R4;C. albicans SC 5314;0,379
+42,5;R4;C. albicans SC 5314;0,3795
+43;R4;C. albicans SC 5314;0,379
+43,5;R4;C. albicans SC 5314;0,3795
+44;R4;C. albicans SC 5314;0,38
+44,5;R4;C. albicans SC 5314;0,3775
+45;R4;C. albicans SC 5314;0,381
+45,5;R4;C. albicans SC 5314;0,379
+46;R4;C. albicans SC 5314;0,382
+46,5;R4;C. albicans SC 5314;0,3825
+47;R4;C. albicans SC 5314;0,382
+47,5;R4;C. albicans SC 5314;0,382
+48;R4;C. albicans SC 5314;0,382
+0;R1;control;0
+0,5;R1;control;0,002
+1;R1;control;0,003
+1,5;R1;control;0,0045
+2;R1;control;0,005
+2,5;R1;control;0,0065
+3;R1;control;0,008
+3,5;R1;control;0,009
+4;R1;control;0,009
+4,5;R1;control;0,009
+5;R1;control;0,009
+5,5;R1;control;0,009
+6;R1;control;0,01
+6,5;R1;control;0,01
+7;R1;control;0,01
+7,5;R1;control;0,01
+8;R1;control;0,01
+8,5;R1;control;0,01
+9;R1;control;0,01
+9,5;R1;control;0,01
+10;R1;control;0,01
+10,5;R1;control;0,011
+11;R1;control;0,011
+11,5;R1;control;0,011
+12;R1;control;0,011
+12,5;R1;control;0,011
+13;R1;control;0,011
+13,5;R1;control;0,011
+14;R1;control;0,011
+14,5;R1;control;0,011
+15;R1;control;0,011
+15,5;R1;control;0,011
+16;R1;control;0,011
+16,5;R1;control;0,011
+17;R1;control;0,011
+17,5;R1;control;0,011
+18;R1;control;0,011
+18,5;R1;control;0,011
+19;R1;control;0,011
+19,5;R1;control;0,011
+20;R1;control;0,011
+20,5;R1;control;0,0115
+21;R1;control;0,011
+21,5;R1;control;0,011
+22;R1;control;0,012
+22,5;R1;control;0,0115
+23;R1;control;0,011
+23,5;R1;control;0,012
+24;R1;control;0,012
+24,5;R1;control;0,0115
+25;R1;control;0,011
+25,5;R1;control;0,0115
+26;R1;control;0,011
+26,5;R1;control;0,011
+27;R1;control;0,011
+27,5;R1;control;0,011
+28;R1;control;0,011
+28,5;R1;control;0,011
+29;R1;control;0,011
+29,5;R1;control;0,011
+30;R1;control;0,011
+30,5;R1;control;0,0115
+31;R1;control;0,011
+31,5;R1;control;0,012
+32;R1;control;0,012
+32,5;R1;control;0,012
+33;R1;control;0,012
+33,5;R1;control;0,0115
+34;R1;control;0,012
+34,5;R1;control;0,012
+35;R1;control;0,012
+35,5;R1;control;0,012
+36;R1;control;0,012
+36,5;R1;control;0,012
+37;R1;control;0,012
+37,5;R1;control;0,012
+38;R1;control;0,012
+38,5;R1;control;0,012
+39;R1;control;0,012
+39,5;R1;control;0,012
+40;R1;control;0,012
+40,5;R1;control;0,012
+41;R1;control;0,012
+41,5;R1;control;0,012
+42;R1;control;0,012
+42,5;R1;control;0,012
+43;R1;control;0,012
+43,5;R1;control;0,012
+44;R1;control;0,012
+44,5;R1;control;0,012
+45;R1;control;0,012
+45,5;R1;control;0,0115
+46;R1;control;0,012
+46,5;R1;control;0,012
+47;R1;control;0,012
+47,5;R1;control;0,012
+48;R1;control;0,012
+0;R2;control;0
+0,5;R2;control;0,002
+1;R2;control;0,004
+1,5;R2;control;0,0045
+2;R2;control;0,005
+2,5;R2;control;0,006
+3;R2;control;0,007
+3,5;R2;control;0,007
+4;R2;control;0,008
+4,5;R2;control;0,008
+5;R2;control;0,008
+5,5;R2;control;0,008
+6;R2;control;0,008
+6,5;R2;control;0,008
+7;R2;control;0,008
+7,5;R2;control;0,009
+8;R2;control;0,009
+8,5;R2;control;0,009
+9;R2;control;0,009
+9,5;R2;control;0,009
+10;R2;control;0,009
+10,5;R2;control;0,009
+11;R2;control;0,009
+11,5;R2;control;0,009
+12;R2;control;0,009
+12,5;R2;control;0,01
+13;R2;control;0,01
+13,5;R2;control;0,01
+14;R2;control;0,01
+14,5;R2;control;0,01
+15;R2;control;0,01
+15,5;R2;control;0,01
+16;R2;control;0,01
+16,5;R2;control;0,01
+17;R2;control;0,01
+17,5;R2;control;0,01
+18;R2;control;0,01
+18,5;R2;control;0,01
+19;R2;control;0,01
+19,5;R2;control;0,01
+20;R2;control;0,01
+20,5;R2;control;0,01
+21;R2;control;0,01
+21,5;R2;control;0,01
+22;R2;control;0,01
+22,5;R2;control;0,01
+23;R2;control;0,01
+23,5;R2;control;0,01
+24;R2;control;0,01
+24,5;R2;control;0,01
+25;R2;control;0,01
+25,5;R2;control;0,01
+26;R2;control;0,01
+26,5;R2;control;0,01
+27;R2;control;0,01
+27,5;R2;control;0,01
+28;R2;control;0,01
+28,5;R2;control;0,01
+29;R2;control;0,01
+29,5;R2;control;0,01
+30;R2;control;0,01
+30,5;R2;control;0,01
+31;R2;control;0,01
+31,5;R2;control;0,01
+32;R2;control;0,01
+32,5;R2;control;0,01
+33;R2;control;0,01
+33,5;R2;control;0,01
+34;R2;control;0,01
+34,5;R2;control;0,01
+35;R2;control;0,01
+35,5;R2;control;0,01
+36;R2;control;0,01
+36,5;R2;control;0,01
+37;R2;control;0,01
+37,5;R2;control;0,01
+38;R2;control;0,01
+38,5;R2;control;0,01
+39;R2;control;0,01
+39,5;R2;control;0,01
+40;R2;control;0,01
+40,5;R2;control;0,01
+41;R2;control;0,01
+41,5;R2;control;0,01
+42;R2;control;0,01
+42,5;R2;control;0,01
+43;R2;control;0,01
+43,5;R2;control;0,01
+44;R2;control;0,01
+44,5;R2;control;0,01
+45;R2;control;0,01
+45,5;R2;control;0,01
+46;R2;control;0,01
+46,5;R2;control;0,01
+47;R2;control;0,01
+47,5;R2;control;0,01
+48;R2;control;0,01
+0;R3;control;0
+0,5;R3;control;0,004
+1;R3;control;0,005
+1,5;R3;control;0,006
+2;R3;control;0,007
+2,5;R3;control;0,0065
+3;R3;control;0,007
+3,5;R3;control;0,009
+4;R3;control;0,009
+4,5;R3;control;0,0085
+5;R3;control;0,008
+5,5;R3;control;0,01
+6;R3;control;0,01
+6,5;R3;control;0,01
+7;R3;control;0,01
+7,5;R3;control;0,01
+8;R3;control;0,01
+8,5;R3;control;0,01
+9;R3;control;0,011
+9,5;R3;control;0,0105
+10;R3;control;0,01
+10,5;R3;control;0,011
+11;R3;control;0,011
+11,5;R3;control;0,011
+12;R3;control;0,011
+12,5;R3;control;0,011
+13;R3;control;0,011
+13,5;R3;control;0,011
+14;R3;control;0,011
+14,5;R3;control;0,011
+15;R3;control;0,011
+15,5;R3;control;0,011
+16;R3;control;0,011
+16,5;R3;control;0,0115
+17;R3;control;0,011
+17,5;R3;control;0,0115
+18;R3;control;0,011
+18,5;R3;control;0,0115
+19;R3;control;0,011
+19,5;R3;control;0,011
+20;R3;control;0,011
+20,5;R3;control;0,011
+21;R3;control;0,011
+21,5;R3;control;0,011
+22;R3;control;0,011
+22,5;R3;control;0,011
+23;R3;control;0,011
+23,5;R3;control;0,011
+24;R3;control;0,011
+24,5;R3;control;0,011
+25;R3;control;0,011
+25,5;R3;control;0,011
+26;R3;control;0,011
+26,5;R3;control;0,011
+27;R3;control;0,011
+27,5;R3;control;0,011
+28;R3;control;0,011
+28,5;R3;control;0,011
+29;R3;control;0,011
+29,5;R3;control;0,011
+30;R3;control;0,011
+30,5;R3;control;0,011
+31;R3;control;0,011
+31,5;R3;control;0,011
+32;R3;control;0,011
+32,5;R3;control;0,011
+33;R3;control;0,011
+33,5;R3;control;0,011
+34;R3;control;0,011
+34,5;R3;control;0,011
+35;R3;control;0,011
+35,5;R3;control;0,011
+36;R3;control;0,011
+36,5;R3;control;0,011
+37;R3;control;0,011
+37,5;R3;control;0,011
+38;R3;control;0,011
+38,5;R3;control;0,011
+39;R3;control;0,011
+39,5;R3;control;0,011
+40;R3;control;0,011
+40,5;R3;control;0,011
+41;R3;control;0,011
+41,5;R3;control;0,011
+42;R3;control;0,011
+42,5;R3;control;0,011
+43;R3;control;0,011
+43,5;R3;control;0,011
+44;R3;control;0,011
+44,5;R3;control;0,0115
+45;R3;control;0,011
+45,5;R3;control;0,0115
+46;R3;control;0,011
+46,5;R3;control;0,011
+47;R3;control;0,011
+47,5;R3;control;0,011
+48;R3;control;0,011
+0;R4;control;0
+0,5;R4;control;0,0015
+1;R4;control;0,003
+1,5;R4;control;0,004
+2;R4;control;0,004
+2,5;R4;control;0,005
+3;R4;control;0,006
+3,5;R4;control;0,007
+4;R4;control;0,007
+4,5;R4;control;0,007
+5;R4;control;0,007
+5,5;R4;control;0,007
+6;R4;control;0,007
+6,5;R4;control;0,007
+7;R4;control;0,007
+7,5;R4;control;0,008
+8;R4;control;0,008
+8,5;R4;control;0,008
+9;R4;control;0,008
+9,5;R4;control;0,008
+10;R4;control;0,008
+10,5;R4;control;0,008
+11;R4;control;0,008
+11,5;R4;control;0,008
+12;R4;control;0,008
+12,5;R4;control;0,008
+13;R4;control;0,008
+13,5;R4;control;0,008
+14;R4;control;0,008
+14,5;R4;control;0,008
+15;R4;control;0,008
+15,5;R4;control;0,008
+16;R4;control;0,008
+16,5;R4;control;0,008
+17;R4;control;0,008
+17,5;R4;control;0,008
+18;R4;control;0,008
+18,5;R4;control;0,008
+19;R4;control;0,008
+19,5;R4;control;0,008
+20;R4;control;0,008
+20,5;R4;control;0,008
+21;R4;control;0,008
+21,5;R4;control;0,008
+22;R4;control;0,008
+22,5;R4;control;0,008
+23;R4;control;0,008
+23,5;R4;control;0,008
+24;R4;control;0,008
+24,5;R4;control;0,008
+25;R4;control;0,008
+25,5;R4;control;0,008
+26;R4;control;0,008
+26,5;R4;control;0,008
+27;R4;control;0,008
+27,5;R4;control;0,008
+28;R4;control;0,007
+28,5;R4;control;0,0075
+29;R4;control;0,008
+29,5;R4;control;0,0075
+30;R4;control;0,007
+30,5;R4;control;0,007
+31;R4;control;0,007
+31,5;R4;control;0,007
+32;R4;control;0,007
+32,5;R4;control;0,007
+33;R4;control;0,007
+33,5;R4;control;0,007
+34;R4;control;0,007
+34,5;R4;control;0,007
+35;R4;control;0,007
+35,5;R4;control;0,007
+36;R4;control;0,007
+36,5;R4;control;0,007
+37;R4;control;0,007
+37,5;R4;control;0,007
+38;R4;control;0,007
+38,5;R4;control;0,007
+39;R4;control;0,007
+39,5;R4;control;0,007
+40;R4;control;0,007
+40,5;R4;control;0,007
+41;R4;control;0,007
+41,5;R4;control;0,007
+42;R4;control;0,007
+42,5;R4;control;0,007
+43;R4;control;0,007
+43,5;R4;control;0,007
+44;R4;control;0,007
+44,5;R4;control;0,007
+45;R4;control;0,007
+45,5;R4;control;0,007
+46;R4;control;0,007
+46,5;R4;control;0,007
+47;R4;control;0,007
+47,5;R4;control;0,007
+48;R4;control;0,007
